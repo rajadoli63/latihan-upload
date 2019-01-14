@@ -1,0 +1,1305 @@
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ initUUID ] getDeviceUUID= 14221822-cd86-3ada-9460-e442e6ceb36c
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ initUUID ] UUID= 14221822-cd86-3ada-9460-e442e6ceb36c
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ init ] ==========Device Info==========
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ uuid ] 14221822-cd86-3ada-9460-e442e6ceb36c
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ androidSDK ] 25
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneBoard ] msm8953
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneBrand ] xiaomi
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneCPU_ABT ] armeabi-v7a
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneDevice ] vince
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneDisplay ] ZQL1711-vince-build-20171209014211
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneFingerprint ] xiaomi/vince/vince:7.1.2/N2G47H/V9.2.0.2.NEGMIEI:user/release-keys
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneHost ] c3-miui-ota-bd98.bj
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneID ] N2G47H
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneManufacturer ] Xiaomi
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneModel ] Redmi 5 Plus
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneVersion ] 7.1.2
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneProduct ] vince
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneTags ] release-keys
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneTime ] Sat Dec 09 00:42:09 GMT+07:00 2017
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneType ] user
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ phoneUser ] builder
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ screenDensity ] 2.75
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ screenScaledDensity ] 2.75
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ screenWidthPixels ] 1080
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ wcreenHeightPixels ] 2030
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ screenStatusBarHeight ] 66
+2019-01-11 18:34:33	DEBUG	DeviceUtils	[ init ] ===============================
+2019-01-11 18:34:33	DEBUG	ThemeUtils	[ createPackageContext ] isTheme= false   mThemeId= com.miui.video.theme.01
+2019-01-11 18:34:33	DEBUG	mivideo	[ AppConfig ] initAppChannel Fail channel = miphone
+2019-01-11 18:34:33	DEBUG	mivideo	[ AppConfig ] initAppChannel Fail channel = 
+2019-01-11 18:34:33	DEBUG	DataUtils	[ addUI ] ui= com.miui.video.global.app.LauncherActivity@d92856e
+2019-01-11 18:34:33	DEBUG	mivideo	[ PermissionUtils ] isAllPermissionGrant is called; context = com.miui.video.global.app.LauncherActivity@d92856e
+2019-01-11 18:34:33	DEBUG	mivideo	[ PermissionUtils ] checkSelfPermission is called permission = android.permission.WRITE_EXTERNAL_STORAGE; Context = com.miui.video.global.app.LauncherActivity@d92856e
+2019-01-11 18:34:33	DEBUG	mivideo	[ PermissionUtils ] checkSelfPermission android.permission.WRITE_EXTERNAL_STORAGE ret = true
+2019-01-11 18:34:33	DEBUG	DataUtils	[ addUI ] ui= com.miui.video.localvideo.app.videolocal.VideoLocalActivity@131d446
+2019-01-11 18:34:33	DEBUG	DataUtils	[ getData ] key= com.miui.videoplayer.KEY_INIT_VIDEOS  obj= null
+2019-01-11 18:34:33	DEBUG	DownloadTask	[ onPreExecute ] Thread= 0  Action= com.miui.videoplayer.KEY_INIT_VIDEOS  State= 2  Entity= com.miui.video.framework.task.TaskEntity@6a6bb48
+2019-01-11 18:34:33	DEBUG	DownloadTask	[ doInBackground ] Thread= 4097  Action= com.miui.videoplayer.KEY_INIT_VIDEOS  State= 2  Entity= com.miui.video.framework.task.TaskEntity@6a6bb48
+2019-01-11 18:34:33	DEBUG	CLVDatabase	[ query ] getCount=89	com.miui.video.framework.db.TableEntity@c8ad2bf
+tableName=null
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=1	com.miui.video.corelocalvideo.entity.VideoEntity@6426db6
+uri=content://media/external/video/media/13711
+mediaId=13711
+hideId=-1
+id=-1
+title=Kenny G   Michael Bolton - YouTube.mp4
+imgUrl=/storage/26DD-0DF9/Download/video/Kenny G   Michael Bolton - YouTube.mp4
+path=/storage/26DD-0DF9/Download/video/Kenny G   Michael Bolton - YouTube.mp4
+size=8.39MB
+duration=07:03:14
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=2	com.miui.video.corelocalvideo.entity.VideoEntity@4469224
+uri=content://media/external/video/media/13712
+mediaId=13712
+hideId=-1
+id=-1
+title=VID_20160705_113325.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160705_113325.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160705_113325.mp4
+size=5.19MB
+duration=07:00:10
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=3	com.miui.video.corelocalvideo.entity.VideoEntity@b7faf42
+uri=content://media/external/video/media/13713
+mediaId=13713
+hideId=-1
+id=-1
+title=VID_20160407_132431.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160407_132431.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160407_132431.mp4
+size=25.79MB
+duration=07:00:30
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=4	com.miui.video.corelocalvideo.entity.VideoEntity@bcfeb53
+uri=content://media/external/video/media/13714
+mediaId=13714
+hideId=-1
+id=-1
+title=VID_20160517_082149.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160517_082149.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160517_082149.mp4
+size=4.57MB
+duration=07:00:08
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=5	com.miui.video.corelocalvideo.entity.VideoEntity@66cac90
+uri=content://media/external/video/media/13715
+mediaId=13715
+hideId=-1
+id=-1
+title=VID_20160122_105138.3gp
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160122_105138.3gp
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160122_105138.3gp
+size=40.79MB
+duration=07:00:41
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=6	com.miui.video.corelocalvideo.entity.VideoEntity@95d7d8e
+uri=content://media/external/video/media/13716
+mediaId=13716
+hideId=-1
+id=-1
+title=VID_20160122_105250.3gp
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160122_105250.3gp
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160122_105250.3gp
+size=58.29MB
+duration=07:00:59
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=7	com.miui.video.corelocalvideo.entity.VideoEntity@2e3e9af
+uri=content://media/external/video/media/13717
+mediaId=13717
+hideId=-1
+id=-1
+title=VID_20160122_105326.3gp
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160122_105326.3gp
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160122_105326.3gp
+size=20.92MB
+duration=07:00:19
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=8	com.miui.video.corelocalvideo.entity.VideoEntity@89801bc
+uri=content://media/external/video/media/13718
+mediaId=13718
+hideId=-1
+id=-1
+title=VID_20160122_105608.3gp
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160122_105608.3gp
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160122_105608.3gp
+size=85.73MB
+duration=07:01:20
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=9	com.miui.video.corelocalvideo.entity.VideoEntity@ca83545
+uri=content://media/external/video/media/13719
+mediaId=13719
+hideId=-1
+id=-1
+title=VID_20160407_160033.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160407_160033.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160407_160033.mp4
+size=40.24MB
+duration=07:01:13
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=10	com.miui.video.corelocalvideo.entity.VideoEntity@c37e49a
+uri=content://media/external/video/media/13721
+mediaId=13721
+hideId=-1
+id=-1
+title=VID_20160407_160533.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160407_160533.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160407_160533.mp4
+size=34.97MB
+duration=07:01:04
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=11	com.miui.video.corelocalvideo.entity.VideoEntity@48f71cb
+uri=content://media/external/video/media/13722
+mediaId=13722
+hideId=-1
+id=-1
+title=VID_20160407_160829.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160407_160829.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160407_160829.mp4
+size=143.75MB
+duration=07:04:23
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=12	com.miui.video.corelocalvideo.entity.VideoEntity@3c17da8
+uri=content://media/external/video/media/13723
+mediaId=13723
+hideId=-1
+id=-1
+title=VID_20160407_162808.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160407_162808.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160407_162808.mp4
+size=32.84MB
+duration=07:01:00
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=13	com.miui.video.corelocalvideo.entity.VideoEntity@59be0c1
+uri=content://media/external/video/media/13725
+mediaId=13725
+hideId=-1
+id=-1
+title=VID_20170106_152411.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20170106_152411.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20170106_152411.mp4
+size=4.23MB
+duration=07:00:13
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=14	com.miui.video.corelocalvideo.entity.VideoEntity@81fb066
+uri=content://media/external/video/media/13726
+mediaId=13726
+hideId=-1
+id=-1
+title=VID_20160426_150733.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160426_150733.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160426_150733.mp4
+size=36.49MB
+duration=07:00:56
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=15	com.miui.video.corelocalvideo.entity.VideoEntity@2215fa7
+uri=content://media/external/video/media/13727
+mediaId=13727
+hideId=-1
+id=-1
+title=VID_20161130_104210.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20161130_104210.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20161130_104210.mp4
+size=10.35MB
+duration=07:00:31
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=16	com.miui.video.corelocalvideo.entity.VideoEntity@584cc54
+uri=content://media/external/video/media/13729
+mediaId=13729
+hideId=-1
+id=-1
+title=VID_20160606_142106.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160606_142106.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160606_142106.mp4
+size=3.33MB
+duration=07:00:06
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=17	com.miui.video.corelocalvideo.entity.VideoEntity@cc4c7fd
+uri=content://media/external/video/media/13730
+mediaId=13730
+hideId=-1
+id=-1
+title=VID_20160428_100136.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160428_100136.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160428_100136.mp4
+size=4.42MB
+duration=07:00:04
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=18	com.miui.video.corelocalvideo.entity.VideoEntity@f666cf2
+uri=content://media/external/video/media/13731
+mediaId=13731
+hideId=-1
+id=-1
+title=VID_20160606_142147.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160606_142147.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160606_142147.mp4
+size=2.83MB
+duration=07:00:05
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=19	com.miui.video.corelocalvideo.entity.VideoEntity@8fa4f43
+uri=content://media/external/video/media/13732
+mediaId=13732
+hideId=-1
+id=-1
+title=VID_20160606_142526.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160606_142526.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160606_142526.mp4
+size=2.43MB
+duration=07:00:04
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=20	com.miui.video.corelocalvideo.entity.VideoEntity@78c59c0
+uri=content://media/external/video/media/13733
+mediaId=13733
+hideId=-1
+id=-1
+title=VID_20160503_102912.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160503_102912.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160503_102912.mp4
+size=23.43MB
+duration=07:00:31
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=21	com.miui.video.corelocalvideo.entity.VideoEntity@49ae6f9
+uri=content://media/external/video/media/13734
+mediaId=13734
+hideId=-1
+id=-1
+title=VID_20160503_103002.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160503_103002.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160503_103002.mp4
+size=8.38MB
+duration=07:00:10
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=22	com.miui.video.corelocalvideo.entity.VideoEntity@5ea663e
+uri=content://media/external/video/media/13735
+mediaId=13735
+hideId=-1
+id=-1
+title=VID_20160606_143322.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160606_143322.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160606_143322.mp4
+size=7.40MB
+duration=07:00:13
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=23	com.miui.video.corelocalvideo.entity.VideoEntity@1e89c9f
+uri=content://media/external/video/media/13736
+mediaId=13736
+hideId=-1
+id=-1
+title=VID_20160611_091458.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160611_091458.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160611_091458.mp4
+size=25.38MB
+duration=07:00:46
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=24	com.miui.video.corelocalvideo.entity.VideoEntity@1bd51ec
+uri=content://media/external/video/media/13737
+mediaId=13737
+hideId=-1
+id=-1
+title=VID_20160614_080646.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160614_080646.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160614_080646.mp4
+size=49.29MB
+duration=07:01:30
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=25	com.miui.video.corelocalvideo.entity.VideoEntity@519f9b5
+uri=content://media/external/video/media/13738
+mediaId=13738
+hideId=-1
+id=-1
+title=VID_20160614_080934.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160614_080934.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160614_080934.mp4
+size=15.72MB
+duration=07:00:28
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=26	com.miui.video.corelocalvideo.entity.VideoEntity@d22a84a
+uri=content://media/external/video/media/13739
+mediaId=13739
+hideId=-1
+id=-1
+title=VID_20161231_114413.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20161231_114413.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20161231_114413.mp4
+size=10.42MB
+duration=07:00:33
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=27	com.miui.video.corelocalvideo.entity.VideoEntity@a4463bb
+uri=content://media/external/video/media/13740
+mediaId=13740
+hideId=-1
+id=-1
+title=VID_20160622_092258.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160622_092258.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160622_092258.mp4
+size=1.20MB
+duration=07:00:06
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=28	com.miui.video.corelocalvideo.entity.VideoEntity@323a0d8
+uri=content://media/external/video/media/13741
+mediaId=13741
+hideId=-1
+id=-1
+title=VID_20160621_174522.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160621_174522.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160621_174522.mp4
+size=7.52MB
+duration=07:00:13
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=29	com.miui.video.corelocalvideo.entity.VideoEntity@3d7c31
+uri=content://media/external/video/media/13742
+mediaId=13742
+hideId=-1
+id=-1
+title=VID_20160706_135500.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160706_135500.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160706_135500.mp4
+size=4.16MB
+duration=07:00:08
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=30	com.miui.video.corelocalvideo.entity.VideoEntity@4eaff16
+uri=content://media/external/video/media/13744
+mediaId=13744
+hideId=-1
+id=-1
+title=VID_20160717_114158.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160717_114158.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160717_114158.mp4
+size=11.88MB
+duration=07:00:21
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=31	com.miui.video.corelocalvideo.entity.VideoEntity@2cb8097
+uri=content://media/external/video/media/13745
+mediaId=13745
+hideId=-1
+id=-1
+title=VID_20170108_083645.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20170108_083645.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20170108_083645.mp4
+size=22.02MB
+duration=07:00:39
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=32	com.miui.video.corelocalvideo.entity.VideoEntity@d9df284
+uri=content://media/external/video/media/13746
+mediaId=13746
+hideId=-1
+id=-1
+title=VID_20160815_084928.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160815_084928.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160815_084928.mp4
+size=7.64MB
+duration=07:00:13
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=33	com.miui.video.corelocalvideo.entity.VideoEntity@23caa6d
+uri=content://media/external/video/media/13747
+mediaId=13747
+hideId=-1
+id=-1
+title=VID_20160815_085016.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160815_085016.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160815_085016.mp4
+size=17.20MB
+duration=07:00:31
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=34	com.miui.video.corelocalvideo.entity.VideoEntity@d0ff6a2
+uri=content://media/external/video/media/13748
+mediaId=13748
+hideId=-1
+id=-1
+title=VID_20160815_164225.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20160815_164225.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20160815_164225.mp4
+size=7.36MB
+duration=07:00:13
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=35	com.miui.video.corelocalvideo.entity.VideoEntity@3d8f33
+uri=content://media/external/video/media/13749
+mediaId=13749
+hideId=-1
+id=-1
+title=VID_20161104_170155.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20161104_170155.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20161104_170155.mp4
+size=5.96MB
+duration=07:00:18
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=36	com.miui.video.corelocalvideo.entity.VideoEntity@49b2f0
+uri=content://media/external/video/media/13750
+mediaId=13750
+hideId=-1
+id=-1
+title=VID_20170215_083201.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera/VID_20170215_083201.mp4
+path=/storage/26DD-0DF9/DCIM/Camera/VID_20170215_083201.mp4
+size=17.51MB
+duration=07:00:18
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=37	com.miui.video.corelocalvideo.entity.VideoEntity@9868069
+uri=content://media/external/video/media/13755
+mediaId=13755
+hideId=-1
+id=-1
+title=VID_20160202_125610.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160202_125610.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160202_125610.mp4
+size=3.09MB
+duration=07:00:05
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=38	com.miui.video.corelocalvideo.entity.VideoEntity@39adaee
+uri=content://media/external/video/media/13756
+mediaId=13756
+hideId=-1
+id=-1
+title=VID_20160203_111734.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160203_111734.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160203_111734.mp4
+size=17.05MB
+duration=07:00:18
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=39	com.miui.video.corelocalvideo.entity.VideoEntity@9b7eb8f
+uri=content://media/external/video/media/13757
+mediaId=13757
+hideId=-1
+id=-1
+title=VID_20160211_130542.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160211_130542.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160211_130542.mp4
+size=9.18MB
+duration=07:00:15
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=40	com.miui.video.corelocalvideo.entity.VideoEntity@caf0e1c
+uri=content://media/external/video/media/13758
+mediaId=13758
+hideId=-1
+id=-1
+title=VID_20160211_131321.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160211_131321.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160211_131321.mp4
+size=31.33MB
+duration=07:00:51
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=41	com.miui.video.corelocalvideo.entity.VideoEntity@27dba25
+uri=content://media/external/video/media/13759
+mediaId=13759
+hideId=-1
+id=-1
+title=VID_20160211_142037.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160211_142037.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160211_142037.mp4
+size=41.90MB
+duration=07:01:04
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=42	com.miui.video.corelocalvideo.entity.VideoEntity@bddb7fa
+uri=content://media/external/video/media/13760
+mediaId=13760
+hideId=-1
+id=-1
+title=VID_20160211_142344.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160211_142344.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160211_142344.mp4
+size=17.85MB
+duration=07:00:27
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=43	com.miui.video.corelocalvideo.entity.VideoEntity@d1b1ab
+uri=content://media/external/video/media/13761
+mediaId=13761
+hideId=-1
+id=-1
+title=VID_20160224_124951.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160224_124951.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160224_124951.mp4
+size=23.30MB
+duration=07:00:42
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=44	com.miui.video.corelocalvideo.entity.VideoEntity@2acf008
+uri=content://media/external/video/media/13762
+mediaId=13762
+hideId=-1
+id=-1
+title=VID_20160224_125128.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160224_125128.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160224_125128.mp4
+size=11.11MB
+duration=07:00:20
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=45	com.miui.video.corelocalvideo.entity.VideoEntity@2f4d3a1
+uri=content://media/external/video/media/13763
+mediaId=13763
+hideId=-1
+id=-1
+title=VID_20160224_125220.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160224_125220.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160224_125220.mp4
+size=1.34MB
+duration=07:00:02
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=46	com.miui.video.corelocalvideo.entity.VideoEntity@a3f59c6
+uri=content://media/external/video/media/13764
+mediaId=13764
+hideId=-1
+id=-1
+title=VID_20160224_125224.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160224_125224.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160224_125224.mp4
+size=19.09MB
+duration=07:00:37
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=47	com.miui.video.corelocalvideo.entity.VideoEntity@f77bd87
+uri=content://media/external/video/media/13765
+mediaId=13765
+hideId=-1
+id=-1
+title=VID_20160224_125311.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160224_125311.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160224_125311.mp4
+size=2.62MB
+duration=07:00:04
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=48	com.miui.video.corelocalvideo.entity.VideoEntity@f2504b4
+uri=content://media/external/video/media/13766
+mediaId=13766
+hideId=-1
+id=-1
+title=VID_20160224_125745.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160224_125745.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160224_125745.mp4
+size=25.85MB
+duration=07:00:45
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=49	com.miui.video.corelocalvideo.entity.VideoEntity@16a08dd
+uri=content://media/external/video/media/13767
+mediaId=13767
+hideId=-1
+id=-1
+title=VID_20160224_130417.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160224_130417.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160224_130417.mp4
+size=2.84MB
+duration=07:00:05
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=50	com.miui.video.corelocalvideo.entity.VideoEntity@c74c52
+uri=content://media/external/video/media/13768
+mediaId=13768
+hideId=-1
+id=-1
+title=VID_20160302_110346_2.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160302_110346_2.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160302_110346_2.mp4
+size=7.83MB
+duration=07:00:14
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=51	com.miui.video.corelocalvideo.entity.VideoEntity@788ab23
+uri=content://media/external/video/media/13769
+mediaId=13769
+hideId=-1
+id=-1
+title=VID_20160302_110346_1.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160302_110346_1.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160302_110346_1.mp4
+size=148.00MB
+duration=07:04:16
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=52	com.miui.video.corelocalvideo.entity.VideoEntity@967b820
+uri=content://media/external/video/media/13770
+mediaId=13770
+hideId=-1
+id=-1
+title=VID_20160329_094753.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160329_094753.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160329_094753.mp4
+size=6.42MB
+duration=07:00:26
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=53	com.miui.video.corelocalvideo.entity.VideoEntity@40355d9
+uri=content://media/external/video/media/13771
+mediaId=13771
+hideId=-1
+id=-1
+title=VID_20160329_110932.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160329_110932.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160329_110932.mp4
+size=20.83MB
+duration=07:00:32
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=54	com.miui.video.corelocalvideo.entity.VideoEntity@869db9e
+uri=content://media/external/video/media/13772
+mediaId=13772
+hideId=-1
+id=-1
+title=VID_20160329_195242.mp4
+imgUrl=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160329_195242.mp4
+path=/storage/26DD-0DF9/DCIM/Camera 1/VID_20160329_195242.mp4
+size=5.26MB
+duration=07:00:09
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=55	com.miui.video.corelocalvideo.entity.VideoEntity@30d67f
+uri=content://media/external/video/media/13774
+mediaId=13774
+hideId=-1
+id=-1
+title=Still Lоving Yоu - acoustic fingerstyle guitar.mp4
+imgUrl=/storage/26DD-0DF9/UCDownloads 1/video 1/Still Lоving Yоu - acoustic fingerstyle guitar.mp4
+path=/storage/26DD-0DF9/UCDownloads 1/video 1/Still Lоving Yоu - acoustic fingerstyle guitar.mp4
+size=80.47MB
+duration=07:05:20
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=56	com.miui.video.corelocalvideo.entity.VideoEntity@b60364c
+uri=content://media/external/video/media/13775
+mediaId=13775
+hideId=-1
+id=-1
+title=Logaritma - YouTube.mp4
+imgUrl=/storage/26DD-0DF9/UCDownloads 1/video 1/Logaritma - YouTube.mp4
+path=/storage/26DD-0DF9/UCDownloads 1/video 1/Logaritma - YouTube.mp4
+size=32.94MB
+duration=07:32:23
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=57	com.miui.video.corelocalvideo.entity.VideoEntity@d065b9b
+uri=content://media/external/video/media/13776
+mediaId=13776
+hideId=-1
+id=-1
+title=Lionel Richie Endless Love Piano Tutorial SLOW - YouTube.mp4
+imgUrl=/storage/26DD-0DF9/UCDownloads 1/video 1/Lionel Richie Endless Love Piano Tutorial SLOW - YouTube.mp4
+path=/storage/26DD-0DF9/UCDownloads 1/video 1/Lionel Richie Endless Love Piano Tutorial SLOW - YouTube.mp4
+size=35.36MB
+duration=07:13:40
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=58	com.miui.video.corelocalvideo.entity.VideoEntity@806b38
+uri=content://media/external/video/media/13777
+mediaId=13777
+hideId=-1
+id=-1
+title=Dance Sugar Fairy Plum.mp4
+imgUrl=/storage/26DD-0DF9/UCDownloads 1/video 1/Dance Sugar Fairy Plum.mp4
+path=/storage/26DD-0DF9/UCDownloads 1/video 1/Dance Sugar Fairy Plum.mp4
+size=3.46MB
+duration=07:02:07
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=59	com.miui.video.corelocalvideo.entity.VideoEntity@ca8e711
+uri=content://media/external/video/media/13778
+mediaId=13778
+hideId=-1
+id=-1
+title=J BRAMS.mp4
+imgUrl=/storage/26DD-0DF9/UCDownloads 1/video 1/J BRAMS.mp4
+path=/storage/26DD-0DF9/UCDownloads 1/video 1/J BRAMS.mp4
+size=4.72MB
+duration=07:02:54
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=60	com.miui.video.corelocalvideo.entity.VideoEntity@277c076
+uri=content://media/external/video/media/13780
+mediaId=13780
+hideId=-1
+id=-1
+title=Free Love me - Yiruma Piano Sheet Music Tutorial.mp4
+imgUrl=/storage/26DD-0DF9/video/Free Love me - Yiruma Piano Sheet Music Tutorial.mp4
+path=/storage/26DD-0DF9/video/Free Love me - Yiruma Piano Sheet Music Tutorial.mp4
+size=10.50MB
+duration=07:03:44
+updateTime=1970年01月18日 22时53分09秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=61	com.miui.video.corelocalvideo.entity.VideoEntity@ae51677
+uri=content://media/external/video/media/95248
+mediaId=95248
+hideId=-1
+id=-1
+title=VID_20180618_102234.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20180618_102234.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20180618_102234.mp4
+size=82.90MB
+duration=07:00:34
+updateTime=1970年01月18日 23时48分12秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=62	com.miui.video.corelocalvideo.entity.VideoEntity@76d02e4
+uri=content://media/external/video/media/95249
+mediaId=95249
+hideId=-1
+id=-1
+title=VID_20180618_102316.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20180618_102316.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20180618_102316.mp4
+size=21.32MB
+duration=07:00:08
+updateTime=1970年01月18日 23时48分12秒
+
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=63	com.miui.video.corelocalvideo.entity.VideoEntity@f976e02
+uri=content://media/external/video/media/112393
+mediaId=112393
+hideId=-1
+id=-1
+title=VID_20180626_123828.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20180626_123828.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20180626_123828.mp4
+size=27.10MB
+duration=07:00:11
+updateTime=1970年01月18日 23时59分51秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=64	com.miui.video.corelocalvideo.entity.VideoEntity@e8aa313
+uri=content://media/external/video/media/120283
+mediaId=120283
+hideId=-1
+id=-1
+title=VID_20180706_112345.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20180706_112345.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20180706_112345.mp4
+size=62.30MB
+duration=07:00:25
+updateTime=1970年01月19日 00时14分11秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=65	com.miui.video.corelocalvideo.entity.VideoEntity@2696950
+uri=content://media/external/video/media/120284
+mediaId=120284
+hideId=-1
+id=-1
+title=VID_20180706_112432.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20180706_112432.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20180706_112432.mp4
+size=21.88MB
+duration=07:00:09
+updateTime=1970年01月19日 00时14分11秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=66	com.miui.video.corelocalvideo.entity.VideoEntity@f12684e
+uri=content://media/external/video/media/152220
+mediaId=152220
+hideId=-1
+id=-1
+title=VID_20180714_135553.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20180714_135553.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20180714_135553.mp4
+size=84.64MB
+duration=07:00:17
+updateTime=1970年01月19日 00时25分51秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=67	com.miui.video.corelocalvideo.entity.VideoEntity@f25d6f
+uri=content://media/external/video/media/152221
+mediaId=152221
+hideId=-1
+id=-1
+title=VID_20180714_170630.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20180714_170630.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20180714_170630.mp4
+size=83.35MB
+duration=07:00:16
+updateTime=1970年01月19日 00时26分02秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=68	com.miui.video.corelocalvideo.entity.VideoEntity@283ca7c
+uri=content://media/external/video/media/169676
+mediaId=169676
+hideId=-1
+id=-1
+title=VID_20180720_125956.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20180720_125956.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20180720_125956.mp4
+size=16.98MB
+duration=07:00:03
+updateTime=1970年01月19日 00时34分26秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=69	com.miui.video.corelocalvideo.entity.VideoEntity@1b72f05
+uri=content://media/external/video/media/169677
+mediaId=169677
+hideId=-1
+id=-1
+title=VID_20180720_130013.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20180720_130013.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20180720_130013.mp4
+size=49.42MB
+duration=07:00:09
+updateTime=1970年01月19日 00时34分26秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=70	com.miui.video.corelocalvideo.entity.VideoEntity@e30bb5a
+uri=content://media/external/video/media/181239
+mediaId=181239
+hideId=-1
+id=-1
+title=line_1533210340449.mp4
+imgUrl=/storage/emulated/0/DCIM/LINE/line_1533210340449.mp4
+path=/storage/emulated/0/DCIM/LINE/line_1533210340449.mp4
+size=3.44MB
+duration=07:00:03
+updateTime=1970年01月19日 00时53分30秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=71	com.miui.video.corelocalvideo.entity.VideoEntity@571618b
+uri=content://media/external/video/media/192730
+mediaId=192730
+hideId=-1
+id=-1
+title=Five Little Speckled Frogs - Plus Lots More Nursery Rhymes - 47 Mins Compil.mp4
+imgUrl=/storage/emulated/0/Babybum/Five Little Speckled Frogs - Plus Lots More Nursery Rhymes - 47 Mins Compil.mp4
+path=/storage/emulated/0/Babybum/Five Little Speckled Frogs - Plus Lots More Nursery Rhymes - 47 Mins Compil.mp4
+size=419.88MB
+duration=07:47:34
+updateTime=1970年01月19日 00时55分52秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=72	com.miui.video.corelocalvideo.entity.VideoEntity@9811268
+uri=content://media/external/video/media/192731
+mediaId=192731
+hideId=-1
+id=-1
+title=Zoo Song - Animal Song - Plus Lots More Nursery Rhymes - From LittleBabyBum.mp4
+imgUrl=/storage/emulated/0/Babybum/Zoo Song - Animal Song - Plus Lots More Nursery Rhymes - From LittleBabyBum.mp4
+path=/storage/emulated/0/Babybum/Zoo Song - Animal Song - Plus Lots More Nursery Rhymes - From LittleBabyBum.mp4
+size=134.54MB
+duration=07:13:48
+updateTime=1970年01月19日 00时55分52秒
+
+2019-01-11 18:34:33	DEBUG	mivideo	[ DeviceUtils ] getDeviceId: Neither user 10090 nor current process has android.permission.READ_PHONE_STATE.
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=73	com.miui.video.corelocalvideo.entity.VideoEntity@400b681
+uri=content://media/external/video/media/192732
+mediaId=192732
+hideId=-1
+id=-1
+title=Finger Family - More Nursery Rhymes   Kids Songs - Songs for Children - Lit.mp4
+imgUrl=/storage/emulated/0/Babybum/Finger Family - More Nursery Rhymes   Kids Songs - Songs for Children - Lit.mp4
+path=/storage/emulated/0/Babybum/Finger Family - More Nursery Rhymes   Kids Songs - Songs for Children - Lit.mp4
+size=268.79MB
+duration=07:30:26
+updateTime=1970年01月19日 00时55分52秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=74	com.miui.video.corelocalvideo.entity.VideoEntity@4af3326
+uri=content://media/external/video/media/192733
+mediaId=192733
+hideId=-1
+id=-1
+title=Wheels On The Bus Plus Lots More Nursery Rhymes 54 Minutes Compilation from.mp4
+imgUrl=/storage/emulated/0/Babybum/Wheels On The Bus Plus Lots More Nursery Rhymes 54 Minutes Compilation from.mp4
+path=/storage/emulated/0/Babybum/Wheels On The Bus Plus Lots More Nursery Rhymes 54 Minutes Compilation from.mp4
+size=462.67MB
+duration=07:54:12
+updateTime=1970年01月19日 00时55分52秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=75	com.miui.video.corelocalvideo.entity.VideoEntity@5928b67
+uri=content://media/external/video/media/192751
+mediaId=192751
+hideId=-1
+id=-1
+title=VID_20180804_132713.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20180804_132713.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20180804_132713.mp4
+size=18.05MB
+duration=07:00:03
+updateTime=1970年01月19日 00时56分04秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=76	com.miui.video.corelocalvideo.entity.VideoEntity@e88ed14
+uri=content://media/external/video/media/200061
+mediaId=200061
+hideId=-1
+id=-1
+title=VID_20180812_144618.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20180812_144618.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20180812_144618.mp4
+size=55.59MB
+duration=07:00:11
+updateTime=1970年01月19日 01时07分39秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=77	com.miui.video.corelocalvideo.entity.VideoEntity@a0139bd
+uri=content://media/external/video/media/293823
+mediaId=293823
+hideId=-1
+id=-1
+title=VID_20181017_162534.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20181017_162534.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20181017_162534.mp4
+size=30.87MB
+duration=07:00:18
+updateTime=1970年01月19日 02时42分48秒
+
+2019-01-11 18:34:33	DEBUG	mivideo	[ HttpIntercepter ] --->>> GET http://video.intl.xiaomi.com/api/g1/meta/setting?_locale=en_US&_devid=&_device=vince&_miuiver=V9.2.6.0.0.NEGMIEK&_model=Redmi%205%20Plus&_andver=25&_appver=2017112090&_devtype=1&_miui=V9 http/1.1
+ Request Body is null
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=78	com.miui.video.corelocalvideo.entity.VideoEntity@74b5bb2
+uri=content://media/external/video/media/321136
+mediaId=321136
+hideId=-1
+id=-1
+title=VID_20181030_201545.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20181030_201545.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20181030_201545.mp4
+size=44.44MB
+duration=07:00:26
+updateTime=1970年01月19日 03时01分45秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=79	com.miui.video.corelocalvideo.entity.VideoEntity@eb27703
+uri=content://media/external/video/media/328245
+mediaId=328245
+hideId=-1
+id=-1
+title=VID_20181106_175332.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20181106_175332.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20181106_175332.mp4
+size=1.85MB
+duration=07:00:00
+updateTime=1970年01月19日 03时11分41秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=80	com.miui.video.corelocalvideo.entity.VideoEntity@191c680
+uri=content://media/external/video/media/344920
+mediaId=344920
+hideId=-1
+id=-1
+title=VID_20181113_200032.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20181113_200032.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20181113_200032.mp4
+size=85.23MB
+duration=07:00:50
+updateTime=1970年01月19日 03时21分54秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=81	com.miui.video.corelocalvideo.entity.VideoEntity@c8cb4b9
+uri=content://media/external/video/media/362969
+mediaId=362969
+hideId=-1
+id=-1
+title=VID_20181123_112020.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20181123_112020.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20181123_112020.mp4
+size=28.99MB
+duration=07:00:17
+updateTime=1970年01月19日 03时35分46秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=82	com.miui.video.corelocalvideo.entity.VideoEntity@70f80fe
+uri=content://media/external/video/media/363053
+mediaId=363053
+hideId=-1
+id=-1
+title=VID_20181127_180337.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20181127_180337.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20181127_180337.mp4
+size=21.12MB
+duration=07:00:12
+updateTime=1970年01月19日 03时41分56秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=83	com.miui.video.corelocalvideo.entity.VideoEntity@d5b805f
+uri=content://media/external/video/media/404054
+mediaId=404054
+hideId=-1
+id=-1
+title=08ceo_menambah rekening perusahaan.mp4
+imgUrl=/storage/emulated/0/video/08ceo_menambah rekening perusahaan.mp4
+path=/storage/emulated/0/video/08ceo_menambah rekening perusahaan.mp4
+size=632.32KB
+duration=07:02:10
+updateTime=1970年01月19日 03时54分32秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=84	com.miui.video.corelocalvideo.entity.VideoEntity@98ccaac
+uri=content://media/external/video/media/404055
+mediaId=404055
+hideId=-1
+id=-1
+title=03ceo_mengubah company detail.mp4
+imgUrl=/storage/emulated/0/video/03ceo_mengubah company detail.mp4
+path=/storage/emulated/0/video/03ceo_mengubah company detail.mp4
+size=1.92MB
+duration=07:02:33
+updateTime=1970年01月19日 03时54分32秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=85	com.miui.video.corelocalvideo.entity.VideoEntity@3bae375
+uri=content://media/external/video/media/404056
+mediaId=404056
+hideId=-1
+id=-1
+title=06ceo_menambah website kategori.mp4
+imgUrl=/storage/emulated/0/video/06ceo_menambah website kategori.mp4
+path=/storage/emulated/0/video/06ceo_menambah website kategori.mp4
+size=1.65MB
+duration=07:02:22
+updateTime=1970年01月19日 03时54分32秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=86	com.miui.video.corelocalvideo.entity.VideoEntity@95eaf0a
+uri=content://media/external/video/media/404057
+mediaId=404057
+hideId=-1
+id=-1
+title=10desain_tampilkan_metode pembayaran.mp4
+imgUrl=/storage/emulated/0/video/10desain_tampilkan_metode pembayaran.mp4
+path=/storage/emulated/0/video/10desain_tampilkan_metode pembayaran.mp4
+size=260.65KB
+duration=07:00:34
+updateTime=1970年01月19日 03时54分33秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=87	com.miui.video.corelocalvideo.entity.VideoEntity@261c37b
+uri=content://media/external/video/media/404058
+mediaId=404058
+hideId=-1
+id=-1
+title=11ceo_mengatur product varian.mp4
+imgUrl=/storage/emulated/0/video/11ceo_mengatur product varian.mp4
+path=/storage/emulated/0/video/11ceo_mengatur product varian.mp4
+size=1.51MB
+duration=07:03:08
+updateTime=1970年01月19日 03时54分34秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=88	com.miui.video.corelocalvideo.entity.VideoEntity@951e598
+uri=content://media/external/video/media/417413
+mediaId=417413
+hideId=-1
+id=-1
+title=VID_20181210_180236.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20181210_180236.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20181210_180236.mp4
+size=10.04MB
+duration=07:00:05
+updateTime=1970年01月19日 04时00分36秒
+
+2019-01-11 18:34:33	DEBUG	DBUtils	[ moveToNext ] size=89	com.miui.video.corelocalvideo.entity.VideoEntity@76341f1
+uri=content://media/external/video/media/463820
+mediaId=463820
+hideId=-1
+id=-1
+title=VID_20190109_100812.mp4
+imgUrl=/storage/emulated/0/DCIM/Camera/VID_20190109_100812.mp4
+path=/storage/emulated/0/DCIM/Camera/VID_20190109_100812.mp4
+size=14.22MB
+duration=07:00:08
+updateTime=1970年01月19日 04时43分23秒
+
+2019-01-11 18:34:33	DEBUG	CLVDatabase	[ queryCount ] getCount=0	com.miui.video.framework.db.TableEntity@74bc344
+tableName=videohide
+
+2019-01-11 18:34:33	DEBUG	CLVDatabase	[ query ] getCount=0	com.miui.video.framework.db.TableEntity@b590c2d
+tableName=videohide
+
+2019-01-11 18:34:33	DEBUG	FragmentPagerAdapter	[ instantiateItem ] position= 0  Fragment= VideoListFragment{3e3cfb0 id=0x7f0f008f}
+2019-01-11 18:34:33	DEBUG	FragmentPagerAdapter	[ instantiateItem ] position= 1  Fragment= FolderListFragment{3673e29 id=0x7f0f008f}
+2019-01-11 18:34:33	DEBUG	DataUtils	[ addUI ] ui= VideoListFragment{3e3cfb0 id=0x7f0f008f}
+2019-01-11 18:34:33	DEBUG	DataUtils	[ addUI ] ui= FolderListFragment{3673e29 #0 id=0x7f0f008f}
+2019-01-11 18:34:34	DEBUG	DataUtils	[ addUI ] ui= com.miui.video.localvideo.app.update.AppUpdateActivity@54f1851
+2019-01-11 18:34:34	DEBUG	mivideo	[ HttpIntercepter ] <<<--- Response base info : 200 OK http://video.intl.xiaomi.com/api/g1/meta/setting?_locale=en_US&_devid=&_device=vince&_miuiver=V9.2.6.0.0.NEGMIEK&_model=Redmi%205%20Plus&_andver=25&_appver=2017112090&_devtype=1&_miui=V9 unknown bytes size
+<<<--- {"data":{"codec_level":"3","disable_codec_name":"none","recommend_exit_times":1,"recommend_exit_times_gallery":1,"recommend_exit_times_no_click":1,"recommend_exit_times_no_click_gallery":1,"recommend_page_control_show_times":1,"recommend_page_control_show_times_for_gallery":1,"recommend_page_daily_show_times_without_click":1,"recommend_page_daily_show_times_without_click_for_gallery":1,"recommend_suspend_times":1,"recommend_suspend_times_gallery":1,"recommend_suspend_times_no_click":1,"recommend_suspend_times_no_click_gallery":1},"msg":"OK","result":1}
+
+
+
+
+2019-01-11 18:34:34	DEBUG	DataUtils	[ getData ] key= com.miui.videoplayer.KEY_APP_VERSION  obj= null
+2019-01-11 18:34:34	DEBUG	mivideo	[ DeviceUtils ] getDeviceId: Neither user 10090 nor current process has android.permission.READ_PHONE_STATE.
+2019-01-11 18:34:34	DEBUG	mivideo	[ HttpIntercepter ] --->>> GET http://video.intl.xiaomi.com/api/g1/meta/app?_locale=en_US&_devid=&_device=vince&_miuiver=V9.2.6.0.0.NEGMIEK&_model=Redmi%205%20Plus&_andver=25&_appver=2017112090&_devtype=1&_miui=V9 http/1.1
+ Request Body is null
+
+2019-01-11 18:34:34	DEBUG	DownloadTask	[ onPostExecute ] Thread= 4097  Action= com.miui.videoplayer.KEY_INIT_VIDEOS  State= 1  Entity= com.miui.video.framework.task.TaskEntity@6a6bb48
+2019-01-11 18:34:34	DEBUG	DataUtils	[ addData ] key= com.miui.videoplayer.KEY_INIT_VIDEOS  obj= com.miui.video.localvideo.app.videolocal.VideoListEntity@b19b0cb
+2019-01-11 18:34:34	DEBUG	DownloadTask	[ onPreExecute ] Thread= 0  Action= com.miui.videoplayer.KEY_VIDEO_GROUP  State= 2  Entity= com.miui.video.framework.task.TaskEntity@5d050a8
+2019-01-11 18:34:34	DEBUG	DownloadTask	[ doInBackground ] Thread= 4106  Action= com.miui.videoplayer.KEY_VIDEO_GROUP  State= 2  Entity= com.miui.video.framework.task.TaskEntity@5d050a8
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=03ceo_mengubah company detail.mp4  index=32  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=06ceo_menambah website kategori.mp4  index=34  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=08ceo_menambah rekening perusahaan.mp4  index=37  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=10desain_tampilkan_metode pembayaran.mp4  index=39  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=11ceo_mengatur product varian.mp4  index=32  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=Dance Sugar Fairy Plum.mp4  index=25  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=Finger Family - More Nursery Rhymes   Kids Songs - Songs for Children - Lit.mp4  index=78  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=Five Little Speckled Frogs - Plus Lots More Nursery Rhymes - 47 Mins Compil.mp4  index=78  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=Free Love me - Yiruma Piano Sheet Music Tutorial.mp4  index=51  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=J BRAMS.mp4  index=10  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=Kenny G   Michael Bolton - YouTube.mp4  index=37  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=Lionel Richie Endless Love Piano Tutorial SLOW - YouTube.mp4  index=59  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=Logaritma - YouTube.mp4  index=22  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=Still Lоving Yоu - acoustic fingerstyle guitar.mp4  index=49  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160122_105138.3gp  index=8  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160122_105250.3gp  index=8  mNodeCount[index]=2
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160122_105326.3gp  index=8  mNodeCount[index]=3
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160122_105608.3gp  index=8  mNodeCount[index]=4
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160202_125610.mp4  index=8  mNodeCount[index]=5
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160203_111734.mp4  index=8  mNodeCount[index]=6
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160211_130542.mp4  index=8  mNodeCount[index]=7
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160211_131321.mp4  index=8  mNodeCount[index]=8
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160211_142037.mp4  index=8  mNodeCount[index]=9
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160211_142344.mp4  index=8  mNodeCount[index]=10
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160224_124951.mp4  index=8  mNodeCount[index]=11
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160224_125128.mp4  index=8  mNodeCount[index]=12
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160224_125220.mp4  index=8  mNodeCount[index]=13
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160224_125224.mp4  index=8  mNodeCount[index]=14
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160224_125311.mp4  index=8  mNodeCount[index]=15
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160224_125745.mp4  index=8  mNodeCount[index]=16
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160224_130417.mp4  index=8  mNodeCount[index]=17
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160302_110346_1.mp4  index=24  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160302_110346_2.mp4  index=19  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160329_094753.mp4  index=9  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160329_110932.mp4  index=9  mNodeCount[index]=2
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160329_195242.mp4  index=9  mNodeCount[index]=3
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160407_132431.mp4  index=8  mNodeCount[index]=18
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160407_160033.mp4  index=8  mNodeCount[index]=19
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160407_160533.mp4  index=8  mNodeCount[index]=20
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160407_160829.mp4  index=8  mNodeCount[index]=21
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160407_162808.mp4  index=8  mNodeCount[index]=22
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160426_150733.mp4  index=8  mNodeCount[index]=23
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160428_100136.mp4  index=8  mNodeCount[index]=24
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160503_102912.mp4  index=8  mNodeCount[index]=25
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160503_103002.mp4  index=8  mNodeCount[index]=26
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160517_082149.mp4  index=8  mNodeCount[index]=27
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160606_142106.mp4  index=8  mNodeCount[index]=28
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160606_142147.mp4  index=8  mNodeCount[index]=29
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160606_142526.mp4  index=8  mNodeCount[index]=30
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160606_143322.mp4  index=8  mNodeCount[index]=31
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160611_091458.mp4  index=8  mNodeCount[index]=32
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160614_080646.mp4  index=8  mNodeCount[index]=33
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160614_080934.mp4  index=8  mNodeCount[index]=34
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160621_174522.mp4  index=8  mNodeCount[index]=35
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160622_092258.mp4  index=8  mNodeCount[index]=36
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160705_113325.mp4  index=8  mNodeCount[index]=37
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160706_135500.mp4  index=8  mNodeCount[index]=38
+
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160717_114158.mp4  index=8  mNodeCount[index]=39
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160815_084928.mp4  index=8  mNodeCount[index]=40
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160815_085016.mp4  index=8  mNodeCount[index]=41
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20160815_164225.mp4  index=8  mNodeCount[index]=42
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20161104_170155.mp4  index=7  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20161130_104210.mp4  index=7  mNodeCount[index]=2
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20161231_114413.mp4  index=7  mNodeCount[index]=3
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20170106_152411.mp4  index=6  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20170108_083645.mp4  index=6  mNodeCount[index]=2
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20170215_083201.mp4  index=6  mNodeCount[index]=3
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20180618_102234.mp4  index=6  mNodeCount[index]=4
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20180618_102316.mp4  index=6  mNodeCount[index]=5
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20180626_123828.mp4  index=6  mNodeCount[index]=6
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20180706_112345.mp4  index=6  mNodeCount[index]=7
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20180706_112432.mp4  index=6  mNodeCount[index]=8
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20180714_135553.mp4  index=6  mNodeCount[index]=9
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20180714_170630.mp4  index=6  mNodeCount[index]=10
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20180720_125956.mp4  index=6  mNodeCount[index]=11
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20180720_130013.mp4  index=6  mNodeCount[index]=12
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20180804_132713.mp4  index=6  mNodeCount[index]=13
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20180812_144618.mp4  index=6  mNodeCount[index]=14
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20181017_162534.mp4  index=6  mNodeCount[index]=15
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20181030_201545.mp4  index=6  mNodeCount[index]=16
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20181106_175332.mp4  index=6  mNodeCount[index]=17
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20181113_200032.mp4  index=6  mNodeCount[index]=18
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20181123_112020.mp4  index=6  mNodeCount[index]=19
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20181127_180337.mp4  index=6  mNodeCount[index]=20
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20181210_180236.mp4  index=6  mNodeCount[index]=21
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=VID_20190109_100812.mp4  index=6  mNodeCount[index]=22
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=Wheels On The Bus Plus Lots More Nursery Rhymes 54 Minutes Compilation from.mp4  index=78  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=Zoo Song - Animal Song - Plus Lots More Nursery Rhymes - From LittleBabyBum.mp4  index=78  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	SimilarCharactersNode	[ addNoteEntity ] getKey=line_1533210340449.mp4  index=21  mNodeCount[index]=1
+2019-01-11 18:34:34	DEBUG	mivideo	[ HttpIntercepter ] <<<--- Response base info : 200 OK http://video.intl.xiaomi.com/api/g1/meta/app?_locale=en_US&_devid=&_device=vince&_miuiver=V9.2.6.0.0.NEGMIEK&_model=Redmi%205%20Plus&_andver=25&_appver=2017112090&_devtype=1&_miui=V9 unknown bytes size
+<<<--- {"data":{"apk_md5":"af9668a2f1904bd76f644f2ad4b67c34","apk_url":"http://cdn.alsgp0.fds.api.mi-img.com/mvideo/10001/2/af9668a2f1904bd76f644f2ad4b67c34.zip","countries":"+*","market_sign":{"appClientId":"2882303761517609685","appId":"mivideo_com.miui.videoplayer","appSignature":"bmvHNUNTWXp1yscFWf3b3fN5FcX3_jLaPVZbmgQDqwY","ext_marketType":"mivideo","ext_mimarket_external_url":"http://api.intl.video.xiaomi.srv/api/g1/meta/upgrade?uri=mivideo://app/2018081390/1\u0026_region=default","nonce":"2752415533120643858:25786774","ref":"com.miui.videoplayer_update"},"mi_market":"mimarket://download?appId=mivideo_com.miui.videoplayer\u0026ext_mimarket_external_url=http%3A%2F%2Fapi.intl.video.xiaomi.srv%2Fapi%2Fg1%2Fmeta%2Fupgrade%3Furi%3Dmivideo%3A%2F%2Fapp%2F2018081390%2F1%26_region%3Ddefault\u0026marketType=mivideo","package_name":"com.miui.videoplayer","recent_change":"Thank you for using the Mivideo.","ref":"mvideo","release_date":"2018-09-26T01:14:56.901+08:00","silence_periodic":"3","silence_version_code":"2018081390","silence_version_name":"2018081390(MiVideo-GMM)","update_type":0,"version_code":"2017112090","version_name":"v2017112090(MiVideo-UN)"},"msg":"OK","result":1}
+
+
+
+
+2019-01-11 18:34:34	DEBUG	mivideo	[ CodecCompatManager ] setDisableCodecLevel : 3
+2019-01-11 18:34:34	DEBUG	mivideo	[ CodecCompatManager ] setDisableCodecName : none
+2019-01-11 18:34:34	DEBUG	DownloadTask	[ onPostExecute ] Thread= 4106  Action= com.miui.videoplayer.KEY_VIDEO_GROUP  State= 1  Entity= com.miui.video.framework.task.TaskEntity@5d050a8
+2019-01-11 18:34:34	DEBUG	DataUtils	[ addData ] key= com.miui.videoplayer.KEY_APP_VERSION  obj= com.miui.video.localvideo.app.update.AppUpdateEntity@5dc20b5
+2019-01-11 18:34:34	DEBUG	MiDevUtils	[ addStatistics ] catagory= v2_user  key= appupdate  count= 1  map= {silence=false, version_code=v2017112090(MiVideo-UN), appupdate_type=0}
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@d34f1a2, task id: file:///storage/emulated/0/video/03ceo_mengubah company detail.mp4
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask queue size: 1
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask execute
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] thread id : 4115
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] runner task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@d34f1a2, task id: file:///storage/emulated/0/video/03ceo_mengubah company detail.mp4, thread id: 4115
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@5f4311c, task id: file:///storage/emulated/0/video/06ceo_menambah website kategori.mp4
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask queue size: 1
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask execute
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@d462aa1, task id: file:///storage/emulated/0/video/08ceo_menambah rekening perusahaan.mp4
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask queue size: 2
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask execute
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@da10752, task id: file:///storage/emulated/0/video/10desain_tampilkan_metode pembayaran.mp4
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask queue size: 3
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask execute
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@7aa657f, task id: file:///storage/emulated/0/video/11ceo_mengatur product varian.mp4
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask queue size: 4
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask execute
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@7af7e38, task id: file:///storage/26DD-0DF9/UCDownloads 1/video 1/Dance Sugar Fairy Plum.mp4
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask queue size: 5
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask execute
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@7336a4d, task id: file:///storage/emulated/0/Babybum/Finger Family - More Nursery Rhymes   Kids Songs - Songs for Children - Lit.mp4
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask queue size: 6
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask execute
+2019-01-11 18:34:34	DEBUG	DataUtils	[ removeUI ] ui= com.miui.video.global.app.LauncherActivity@d92856e
+2019-01-11 18:34:34	DEBUG	DataUtils	[ removeUI ] ui= com.miui.video.localvideo.app.update.AppUpdateActivity@54f1851
+2019-01-11 18:34:34	DEBUG	mivideo	[ ThreadPoolManager ] initThreadPool index　0
+2019-01-11 18:34:34	DEBUG	mivideo	[ ThumbnailTaskStack ] load thumbnail: /storage/emulated/0/Android/data/com.miui.videoplayer/cache/thumb/03ceo_mengubah company detail.mp4.thumb
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] runner done task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@d34f1a2, task id: file:///storage/emulated/0/video/03ceo_mengubah company detail.mp4, thread id: 4115
+2019-01-11 18:34:34	INFO	mivideo	[ ThumbnailTaskStack ] runner task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@5f4311c, task id: file:///storage/emulated/0/video/06ceo_menambah website kategori.mp4, thread id: 4115
+2019-01-11 18:34:35	DEBUG	mivideo	[ ThumbnailTaskStack ] load thumbnail: /storage/emulated/0/Android/data/com.miui.videoplayer/cache/thumb/06ceo_menambah website kategori.mp4.thumb
+2019-01-11 18:34:35	INFO	mivideo	[ ThumbnailTaskStack ] runner done task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@5f4311c, task id: file:///storage/emulated/0/video/06ceo_menambah website kategori.mp4, thread id: 4115
+2019-01-11 18:34:35	INFO	mivideo	[ ThumbnailTaskStack ] runner task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@d462aa1, task id: file:///storage/emulated/0/video/08ceo_menambah rekening perusahaan.mp4, thread id: 4115
+2019-01-11 18:34:35	DEBUG	mivideo	[ ThumbnailTaskStack ] load thumbnail: /storage/emulated/0/Android/data/com.miui.videoplayer/cache/thumb/08ceo_menambah rekening perusahaan.mp4.thumb
+2019-01-11 18:34:35	INFO	mivideo	[ ThumbnailTaskStack ] runner done task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@d462aa1, task id: file:///storage/emulated/0/video/08ceo_menambah rekening perusahaan.mp4, thread id: 4115
+2019-01-11 18:34:35	INFO	mivideo	[ ThumbnailTaskStack ] runner task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@da10752, task id: file:///storage/emulated/0/video/10desain_tampilkan_metode pembayaran.mp4, thread id: 4115
+2019-01-11 18:34:35	DEBUG	mivideo	[ ThumbnailTaskStack ] load thumbnail: /storage/emulated/0/Android/data/com.miui.videoplayer/cache/thumb/10desain_tampilkan_metode pembayaran.mp4.thumb
+2019-01-11 18:34:35	INFO	mivideo	[ ThumbnailTaskStack ] runner done task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@da10752, task id: file:///storage/emulated/0/video/10desain_tampilkan_metode pembayaran.mp4, thread id: 4115
+2019-01-11 18:34:35	INFO	mivideo	[ ThumbnailTaskStack ] runner task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@7aa657f, task id: file:///storage/emulated/0/video/11ceo_mengatur product varian.mp4, thread id: 4115
+2019-01-11 18:34:36	DEBUG	mivideo	[ ThumbnailTaskStack ] load thumbnail: /storage/emulated/0/Android/data/com.miui.videoplayer/cache/thumb/11ceo_mengatur product varian.mp4.thumb
+2019-01-11 18:34:36	INFO	mivideo	[ ThumbnailTaskStack ] runner done task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@7aa657f, task id: file:///storage/emulated/0/video/11ceo_mengatur product varian.mp4, thread id: 4115
+2019-01-11 18:34:36	INFO	mivideo	[ ThumbnailTaskStack ] runner task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@7af7e38, task id: file:///storage/26DD-0DF9/UCDownloads 1/video 1/Dance Sugar Fairy Plum.mp4, thread id: 4115
+2019-01-11 18:34:36	DEBUG	mivideo	[ ThumbnailTaskStack ] load thumbnail: /storage/emulated/0/Android/data/com.miui.videoplayer/cache/thumb/Dance Sugar Fairy Plum.mp4.thumb
+2019-01-11 18:34:36	INFO	mivideo	[ ThumbnailTaskStack ] runner done task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@7af7e38, task id: file:///storage/26DD-0DF9/UCDownloads 1/video 1/Dance Sugar Fairy Plum.mp4, thread id: 4115
+2019-01-11 18:34:36	INFO	mivideo	[ ThumbnailTaskStack ] runner task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@7336a4d, task id: file:///storage/emulated/0/Babybum/Finger Family - More Nursery Rhymes   Kids Songs - Songs for Children - Lit.mp4, thread id: 4115
+2019-01-11 18:34:36	DEBUG	mivideo	[ ThumbnailTaskStack ] load thumbnail: /storage/emulated/0/Android/data/com.miui.videoplayer/cache/thumb/Finger Family - More Nursery Rhymes   Kids Songs - Songs for Children - Lit.mp4.thumb
+2019-01-11 18:34:36	INFO	mivideo	[ ThumbnailTaskStack ] runner done task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@7336a4d, task id: file:///storage/emulated/0/Babybum/Finger Family - More Nursery Rhymes   Kids Songs - Songs for Children - Lit.mp4, thread id: 4115
+2019-01-11 18:34:36	INFO	mivideo	[ ThumbnailTaskStack ] thread id : 4115
+2019-01-11 18:34:36	INFO	mivideo	[ ThumbnailTaskStack ] thread id : 4115
+2019-01-11 18:34:36	INFO	mivideo	[ ThumbnailTaskStack ] thread id : 4115
+2019-01-11 18:34:36	INFO	mivideo	[ ThumbnailTaskStack ] thread id : 4115
+2019-01-11 18:34:36	INFO	mivideo	[ ThumbnailTaskStack ] thread id : 4115
+2019-01-11 18:34:36	INFO	mivideo	[ ThumbnailTaskStack ] thread id : 4115
+2019-01-11 18:35:02	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@c5ce02f, task id: file:///storage/emulated/0/Babybum/Five Little Speckled Frogs - Plus Lots More Nursery Rhymes - 47 Mins Compil.mp4
+2019-01-11 18:35:02	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask queue size: 1
+2019-01-11 18:35:02	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask execute
+2019-01-11 18:35:02	INFO	mivideo	[ ThumbnailTaskStack ] thread id : 4115
+2019-01-11 18:35:02	INFO	mivideo	[ ThumbnailTaskStack ] runner task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@c5ce02f, task id: file:///storage/emulated/0/Babybum/Five Little Speckled Frogs - Plus Lots More Nursery Rhymes - 47 Mins Compil.mp4, thread id: 4115
+2019-01-11 18:35:02	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@1683a28, task id: file:///storage/26DD-0DF9/video/Free Love me - Yiruma Piano Sheet Music Tutorial.mp4
+2019-01-11 18:35:02	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask queue size: 1
+2019-01-11 18:35:02	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask execute
+2019-01-11 18:35:02	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask task: com.miui.video.localvideo.utils.ThumbnailTaskPool$VideoThumbnailAsyncTask@ea34572, task id: file:///storage/26DD-0DF9/UCDownloads 1/video 1/J BRAMS.mp4
+2019-01-11 18:35:02	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask queue size: 2
+2019-01-11 18:35:02	INFO	mivideo	[ ThumbnailTaskStack ] pushBackTask execute
+
